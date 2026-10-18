@@ -1,0 +1,25 @@
+# Geheimnisse: Passwörter gehören in Umgebungsvariablen, nie in Dateien
+.env
+.env.*
+*.key
+*_key*
+secrets.json
+
+# Laufende Sitzungen / Testausgaben
+live/daten/
+test/_ausgabe/
+*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Editor und Betriebssystem
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+.claude/settings.local.json
