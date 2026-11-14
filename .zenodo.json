@@ -1,0 +1,21 @@
+{
+  "title": "Quality Response: audience response for Quality Point presentations",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "MIT",
+  "creators": [
+    {
+      "name": "Schroffenegger, Thomas",
+      "affiliation": "Pädagogische Hochschule Vorarlberg",
+      "orcid": "0000-0002-3224-2384"
+    }
+  ],
+  "description": "Audience response for Quality Point presentations: participants join via QR code – mood barometer, hints, polls. PHP, no database.",
+  "keywords": [
+    "audience response",
+    "presentations",
+    "classroom response system",
+    "PHP"
+  ],
+  "version": "1.0.0"
+}
