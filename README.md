@@ -1,5 +1,7 @@
 # Quality Response
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24218599.svg)](https://doi.org/10.5281/zenodo.24218599)
+
 **Mitmachen vom eigenen Gerät aus – für Präsentationen, die mit [Quality Point](https://github.com/harubert/quality_point) gebaut sind.** Teilnehmer*innen scannen einen QR-Code; die Folien laufen am Handy mit, dazu Stimmungsbarometer, Fragen und Hinweise an die Vortragenden, „Fertig“-Knopf und Umfragen mit Live-Ergebnis. Ein Skill für Claude Code – oder ein einzelner Befehl.
 
 Quality Point bleibt reines HTML und läuft überall. Quality Response ist der Teil, der einen Server braucht: eine PHP-Datei, JSON-Dateien, keine Datenbank.
